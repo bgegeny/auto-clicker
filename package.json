@@ -1,0 +1,20 @@
+{
+  "name": "auto-clicker",
+  "version": "1.0.0",
+  "description": "auto-clicker. nothing fancy",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "slack",
+    "click",
+    "lazy"
+  ],
+  "author": "Benjamin Gégény",
+  "license": "ISC",
+  "dependencies": {
+    "robotjs": "^0.6.0"
+  }
+}
